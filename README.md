@@ -108,7 +108,7 @@ Decoder
 ### Google Colab (Recommended)
 1. Open [colab.research.google.com](https://colab.research.google.com)
 2. File → Upload notebook → select `MNIST_Denoising_Autoencoder.ipynb`
-3. Upload `archive (2).zip` via the left sidebar file panel
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/awsaf49/mnist-dataset) and upload the zip via the left sidebar file panel
 4. Runtime → Change runtime type → Select **T4 GPU**
 5. Runtime → **Run all**
 
